@@ -1,1 +1,1 @@
-// Publicly pinned reppository
+Publicly pinned repository.
